@@ -1,4 +1,6 @@
 {
+  "name": "Budget Tracker",
+  "short_name": "Tracker",
   "icons": [
     {
       "src": "icons/icon-512x512.png",
@@ -40,13 +42,10 @@
       "sizes": "72x72",
       "type": "image/png"
     }
-
   ],
-  "name": "Budget Tracker",
-  "short-name": "Tracker",
-  "theme-color": "#ffffff",
-  "background-color": "#ffffff",
-  "start-url": "/index.html",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
   "display": "standalone",
   "description": "An app that allows you to track your budget."
 }
